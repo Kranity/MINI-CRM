@@ -1,0 +1,139 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+
+
+/* TOP */
+
+.top {
+    height: 10%;
+    background-color: #2a9d8f;
+}
+
+.h1-top {
+    padding: 1% 15%;
+    display: inline-block;
+    font-family: Impact, sans-serif;
+    font-size: 28pt;
+    color: rgb(27, 27, 27);
+}
+
+.a-top {
+    margin: 1% 1% 1% 8.5%;
+    padding: 1%;
+    font-size: 15pt;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+/* TOP */
+
+
+
+/* BOTTOM */
+
+.bottom {
+    height: 10%;
+    background-color: #2a9d8f;
+}
+
+/* BOTTOM */
+
+
+
+/* CENTER */
+
+.center {
+    width: 80%;
+    height: 80%;
+    margin: auto;
+}
+
+/* CENTER */
+
+
+
+/* CENTER 1 */
+
+.center1 {
+    display: inline-block;
+    width: 98%;
+    height: 96%;
+    margin: 1%;
+}   
+
+.input-center1 {
+    float: right;
+    margin: 2% 2% 1% 2%;
+    padding: 1%;
+    border-radius: 10px;
+    background-color: #c9f5bb;
+    font-size: 12pt;
+    border: 1px solid gray;
+    width: 15%;
+}
+
+.input-center1:focus {
+    outline: none;
+}
+
+/* CENTER 1 */
+
+
+
+/* CENTER 2 */
+
+.h2-center2 {
+    display: inline-block;
+    margin: 2% 1% 2% 2%;
+    letter-spacing: 2px;
+    font-family: 'Arial', sans-serif;
+    font-size: 20pt;
+}
+
+.table-center2 {
+    margin-left: 1%;
+    padding: 1%;
+    width: 98%;
+}
+
+.th-center2 {
+    padding: 0.8%;
+    background-color: #c9f5bb;
+    font-family: Arial, sans-serif;
+}
+
+.td-center2 {
+    padding: 0.8%;
+    background-color: #f1faee;
+    font-family: Arial, sans-serif;
+}
+
+.td-center2-extra {
+    text-decoration: none;
+}
+
+.input-center2 {
+    float: left;
+    margin: 1% 0% 0% 2%;
+    padding: 0.5%;
+    border-radius: 10px;
+    background-color: #c9f5bb;
+    font-size: 12pt;
+    border: 1px solid gray;
+    width: 3%;
+}
+
+.input-center2:focus {
+    outline: none;
+}
+
+/* CENTER 2 */

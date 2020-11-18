@@ -1,0 +1,92 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+
+
+/* TOP */
+
+.top {
+    height: 10%;
+    background-color: #2a9d8f;
+}
+
+.h1-top {
+    padding: 1% 15%;
+    display: inline-block;
+    font-family: Impact, sans-serif;
+    font-size: 28pt;
+    color: rgb(27, 27, 27);
+}
+
+.a-top {
+    margin: 1% 1% 1% 8.5%;
+    padding: 1%;
+    font-size: 15pt;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+/* TOP */
+
+
+
+/* CENTER */
+
+.center {
+    width: 60%;
+    height: 90%;
+    position: absolute;
+    left: 20%;
+}
+
+.h2-center {
+    display: block;
+    margin: 2% 1% 2% 2%;
+    letter-spacing: 2px;
+    font-family: 'Arial', sans-serif;
+    font-size: 20pt;
+    text-align: center;
+}
+
+.input-center {
+    margin: 1% 1% 3% 5%;
+    padding: 1%;
+    width: 40%;
+    border: none;
+    border-bottom: 1px solid gray;
+    font-family: 'Courier New', sans-serif;
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+.input-center[type="submit"] {
+    display: block;
+    margin: auto;
+    margin-bottom: 3%;
+    border-radius: 10px;
+    background-color: #c9f5bb;
+    border: 1px solid gray;
+    font-weight: bold;  
+    font-size: 12pt;
+    width: 20%;
+}
+
+.input-center:focus {
+    outline: none;
+}
+
+.hr-center {
+    width: 90%;
+    margin-left: 5%;
+    color: gray;
+}
+
+/* CENTER */
